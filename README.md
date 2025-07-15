@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello, I am Aaron Shimanov</h3>👋
+<h3 align="center">👋 Hello, I am Aaron Shimanov 👋</h3>
 
 <p align="center">
   <a href="https://x.com/AaronShimanov">X</a> •
