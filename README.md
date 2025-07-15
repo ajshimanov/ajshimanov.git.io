@@ -50,6 +50,8 @@ Minor in Technology Entrepeneurship
 
 ![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=ajshimanov&show_icons=true&theme=dracula&hide=stars,issues)
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ajshimanov)
+
 <details>
   <summary>Click👆</summary>
   <pre>
