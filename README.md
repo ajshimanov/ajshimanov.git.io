@@ -19,21 +19,37 @@ Outside of work, I enjoy cars (track days and AutoX), Motorsports such as Formul
 
 ---
 
-<h3 align="center">Experience</h3>
-
+<h3 align="center">Career Experience</h3>
+<div align="center">
 I have supported the following agencies/organizations throughout my career thusfar:
-DHS ICE, CISA, NAVAIR, NAVSEA, Deloitte, AVER, and the University of Maryland
+
+DHS ICE | DHS CISA | NAVAIR | NAVSEA | Deloitte | AVER | University of Maryland
+</div>
 
 ---
 
 <h3 align="center">Education</h3>
 
+<div align="center">
 University of Maryland, College Park
+
 Graduating Class - Fall Class of 2019
-Bachelor of Science, Information Science (Cybersccurity Specialized)
+
+Bachelor of Science, Information Science (Cybersecurity Specialized)
+  
 Minor in Technology Entrepeneurship
+</div>
 
 ---
 
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/aaron-shimanov/) or [E-Mail](mailto:aj_shimanov@outlook.com)  
 - 😄 Pronouns: He/Him
+
+![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=ajshimanov&show_icons=true&theme=dracula&hide=stars,issues)
+
+<details>
+  <summary>Click👆</summary>
+  <pre>
+  🤷‍♂️
+  </pre>
+</details>
