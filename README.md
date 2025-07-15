@@ -21,9 +21,11 @@ Outside of work, I enjoy cars (track days and AutoX), Motorsports such as Formul
 
 <h3 align="center">Career Experience</h3>
 <div align="center">
+
 I have supported the following agencies/organizations throughout my career thusfar:
 
 DHS ICE | DHS CISA | NAVAIR | NAVSEA | Deloitte | AVER | University of Maryland
+
 </div>
 
 ---
@@ -31,11 +33,12 @@ DHS ICE | DHS CISA | NAVAIR | NAVSEA | Deloitte | AVER | University of Maryland
 <h3 align="center">Education</h3>
 
 <div align="center">
+  
 University of Maryland, College Park
 
 Graduating Class - Fall Class of 2019
 
-Bachelor of Science, Information Science (Cybersecurity Specialized)
+Bachelor of Science, Information Science (Cyber Focus)
   
 Minor in Technology Entrepeneurship
 </div>
