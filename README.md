@@ -3,7 +3,9 @@
 <p align="center">
   <a href="https://x.com/AaronShimanov">X</a> •
   <a href="https://www.linkedin.com/in/aaron-shimanov/">LinkedIn</a> •
-  <a href="https://www.youtube.com/c/AaronShimanov">YouTube</a>
+  <a href="https://www.youtube.com/c/AaronShimanov">YouTube</a> •
+  <a href="mailto:aj_shimanov@outlook.com">E-Mail</a>
+
 </p>
 
 ---
@@ -16,5 +18,5 @@ Outside of work, I enjoy cars (track days and AutoX), Motorsports such as Formul
 
 ---
 
-- 📫 Reach out to me on [X](https://www.linkedin.com/in/aaron-shimanov/) or [email](mailto:aj_shimanov@outlook.com)  
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/aaron-shimanov/) or [E-Mail](mailto:aj_shimanov@outlook.com)  
 - 😄 Pronouns: He/Him
