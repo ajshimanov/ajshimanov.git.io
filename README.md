@@ -62,7 +62,7 @@ Minor in Technology Entrepeneurship
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ajshimanov)
 
-![tryhackme stats](https://raw.githubusercontent.com/AaronShimanov/AaronShimanov/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/AaronShimanov/master/assets/thm_propic.png)
 
 <details>
   <summary>Click👆</summary>
